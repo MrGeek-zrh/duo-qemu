@@ -1,0 +1,11 @@
+[options]
+gtk = enabled
+virtfs = enabled
+gio = disabled
+werror = true
+docs = disabled
+prefix = /home/renhao/github/qemu/build/bin
+
+[properties]
+native_file = ['/home/renhao/github/qemu/build/config-meson.cross']
+
